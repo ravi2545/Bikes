@@ -1,0 +1,8 @@
+Djan installtion
+
+
+python -m venv folder-name
+python -m django startproject projectname or django-admin startproject projectname
+python manage.py startapp app-name
+pip install pip install djangorestframework
+pip install django-rest-swagger
